@@ -20,7 +20,7 @@ Python SDK to communicate with Billing v1 API
 
 ```python
 
-import json
+import *
 
 ```
 
