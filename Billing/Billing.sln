@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "SoneBilling", "Billing\SoneBilling.pyproj", "{3408FE37-0647-41E2-870E-84353DC2B4EF}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Poc", "Poc\Poc.pyproj", "{B147CBBB-A577-4C57-B4EF-CF5F78F7F71A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3408FE37-0647-41E2-870E-84353DC2B4EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3408FE37-0647-41E2-870E-84353DC2B4EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B147CBBB-A577-4C57-B4EF-CF5F78F7F71A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B147CBBB-A577-4C57-B4EF-CF5F78F7F71A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
