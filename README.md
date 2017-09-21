@@ -20,7 +20,11 @@ Python SDK to communicate with Billing v1 API
 
 ```python
 
-import json
+from billing import sonebilling
+
+contract = billing.hire()
+
+print(contract.Number)
 
 ```
 
